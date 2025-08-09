@@ -13,7 +13,7 @@ A responsive single-page web application for managing daily tasks. This applicat
 - **Task Management**:
     - Mark tasks as **complete** or pending.
     - **Edit** existing task details (name, date, priority).
-    - **Delete** tasks individually.
+    - **Delete** tasks individually or all at once.
 - **Search & Filtering**:
     - **Search Tasks**: Dynamically search for tasks by name.
     - **Filter by Status**: Filter tasks by their status (All, Completed, Pending).
