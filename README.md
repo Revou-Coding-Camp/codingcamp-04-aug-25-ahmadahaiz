@@ -7,7 +7,7 @@ A responsive single-page web application for managing daily tasks. This applicat
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Add Tasks**: Users can add new tasks including a task name, due date, and priority level (Low, Medium, High).
 - **Task Management**:
@@ -26,7 +26,7 @@ A responsive single-page web application for managing daily tasks. This applicat
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **HTML5**: For the basic structure and content of the web application.
 - **Tailwind CSS**: A utility-first CSS framework used for building the user interface quickly and efficiently.
@@ -34,7 +34,7 @@ A responsive single-page web application for managing daily tasks. This applicat
 
 ---
 
-## ✒️ Author
+## Author
 
 This project was created and is maintained by **Ahmada Haiz Zakiyil Ilahi**.
 
